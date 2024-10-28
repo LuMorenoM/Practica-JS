@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+.boton-modoLectura{
+    background-color: rgb(235, 169, 157);
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.modo-lectura{
+    background-color: black;
+    color: white;
+}
+
+.img-modo-lectura{
+    display: none;
+}
+
+.boton-modoNormal{
+    background-color: rgb(157, 188, 235);
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    max-width: 70%;
+}
+
